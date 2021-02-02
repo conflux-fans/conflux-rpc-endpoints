@@ -13,18 +13,14 @@ Public available RPC endpoints
 * mainnet: https://mainnet-rpc.conflux-chain.org.cn
 * testnet: https://testnet-rpc.conflux-chain.org.cn
 
-
-
 #### TokenView
 * mainnet: http://www.tokenview.com:12537 trace RPCs opened
 * testnet: http://www.tokenview.com:22537
 
-
 #### Community 
 * mainnet: http://mainnet.cfxchain.xyz:12537
 * testnet: http://testnet.cfxchain.xyz:12537/rpc/  (notice the final slash)
-* testnet ws: ws://testnet.cfxchain.xyz:12535
-
+* testnet websocket: ws://testnet.cfxchain.xyz:12535
 
 ## Conflux RPC support new CIP37 address
 
@@ -33,8 +29,8 @@ Public available RPC endpoints
 * testnet: https://test.confluxrpc.org/v2
 
 websocket:
-* mainnet: main.confluxrpc.org/ws/v2
-* testnet: test.confluxrpc.org/ws/v2
+* mainnet: ws://main.confluxrpc.org/ws/v2
+* testnet: ws://test.confluxrpc.org/ws/v2
 
 
 
@@ -44,5 +40,5 @@ websocket:
 * testnet: https://testnet-rpc.conflux-chain.org.cn/v2
 
 websocket:
-* mainnet：mainnet-rpc.conflux-chain.org.cn/ws/v2
-* testnet：testnet-rpc.conflux-chain.org.cn/ws/v2
+* mainnet：ws://mainnet-rpc.conflux-chain.org.cn/ws/v2
+* testnet：ws://testnet-rpc.conflux-chain.org.cn/ws/v2
