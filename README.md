@@ -9,7 +9,7 @@ Public available RPC endpoints
 * testnet: https://test.confluxrpc.org
 
 
-#### Conflux Official mainland
+#### Conflux Official China
 * mainnet: https://mainnet-rpc.conflux-chain.org.cn
 * testnet: https://testnet-rpc.conflux-chain.org.cn
 
@@ -33,9 +33,7 @@ websocket:
 * testnet: ws://test.confluxrpc.org/ws/v2
 
 
-
-
-#### Conflux Official mainland
+#### Conflux Official China
 * mainnet: https://mainnet-rpc.conflux-chain.org.cn/v2
 * testnet: https://testnet-rpc.conflux-chain.org.cn/v2
 
