@@ -12,9 +12,8 @@ Public available RPC endpoints
 * mainnet: https://mainnet-rpc.conflux-chain.org.cn
 * testnet: https://testnet-rpc.conflux-chain.org.cn
 
-#### TokenView
-* mainnet: http://www.tokenview.com:12537 trace RPCs opened
-* testnet: http://www.tokenview.com:22537
+#### TokenView's Infura service
+* https://services.tokenview.com/cn/product/infura
 
 ## Conflux RPC support new CIP37 address
 
