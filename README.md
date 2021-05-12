@@ -17,13 +17,3 @@ websocket:
 * https://services.tokenview.com/cn/product/infura
 
 
-## Conflux-rust v1.1.0 (Support hex40 address)
-
-#### Conflux Official
-* mainnet: https://main.confluxrpc.org
-* testnet: https://test.confluxrpc.org
-
-
-#### Conflux Official China
-* mainnet: https://mainnet-rpc.conflux-chain.org.cn
-* testnet: https://testnet-rpc.conflux-chain.org.cn
